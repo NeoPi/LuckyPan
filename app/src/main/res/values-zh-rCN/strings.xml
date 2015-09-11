@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">幸运转盘</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">打开侧边导航栏</string>
+    <string name="navigation_drawer_close">关闭侧边导航栏</string>
+
+    <string name="action_example">活动事件</string>
+
+    <string name="action_settings">设置</string>
+</resources>

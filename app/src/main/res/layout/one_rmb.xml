@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#AD0F0C">
+
+    <!--<include-->
+        <!--android:id="@+id/title"-->
+        <!--layout="@layout/public_title"/>-->
+
+    <com.byg.luckydog.widget.LuckyDogView
+        android:id="@+id/zview"
+        android:layout_centerInParent="true"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="3dp"
+        />
+     <Button
+         android:id="@+id/bt_start"
+         android:background="@drawable/pointer"
+         android:layout_centerInParent="true"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         />
+     
+
+</RelativeLayout>
