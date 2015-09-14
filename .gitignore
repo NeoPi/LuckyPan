@@ -5,6 +5,7 @@
 /build
 /captures
 *.iml
+
 /gradle.properties
 /build.gradle
 /gradlew
