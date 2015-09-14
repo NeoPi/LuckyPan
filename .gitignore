@@ -4,19 +4,13 @@
 .DS_Store
 /build
 /captures
-
-
-
 *.iml
 /gradle.properties
 /build.gradle
-
-
 /gradlew
 /settings.gradle
-
-
 /gradlew.bat
 /app/
+/gradle
 
 
